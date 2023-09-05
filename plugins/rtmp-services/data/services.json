@@ -2216,11 +2216,11 @@
             ]
         },
         {
-            "name": "Utreon",
+            "name": "Playeur",
             "servers": [
                 {
                     "name": "Default",
-                    "url": "rtmp://live.utreon.com:5222/app"
+                    "url": "rtmp://live.playeur.com:5222/app"
                 }
             ],
             "recommended": {
